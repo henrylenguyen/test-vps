@@ -22,4 +22,4 @@ jobs:
         port: 21
         local-dir: build/
         protocol: ftp
-        server-dir: /www/wwwroot/test-vps
+        server-dir: /www/wwwroot/test-vps/
