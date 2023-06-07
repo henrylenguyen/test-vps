@@ -1,5 +1,7 @@
 {
   "name": "test-vps",
+  "start_url": ".",
+  "homepage": "https://test-vps.henlladev.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
